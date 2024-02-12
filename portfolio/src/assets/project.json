@@ -1,37 +1,37 @@
 [
   {
     "title": "Rupesh-Portfolio",
-    "image": "images/Rupesh-Portfolio.png",
+    "image": "./assets/images/Rupesh-Portfolio.png",
     "deployed": "https://rrana5106.github.io/rupesh-portfolio/",
     "github": "https://github.com/rrana5106/rupesh-portfolio?tab=readme-ov-file"
   },
   {
     "title": "Rupesh-Bootstrap-Portfolio",
-    "image": "images/Rupesh-Bootstrap-Portfolio.png",
+    "image": "./assets/images/Rupesh-Bootstrap-Portfolio.png",
     "deployed": "https://rrana5106.github.io/Rupesh-Bootstrap-Portfolio/",
     "github": "https://github.com/rrana5106/Rupesh-Bootstrap-Portfolio/tree/main"
   },
   {
     "title": "Password-Generator",
-    "image": "images/Password-Generator.png",
+    "image": "./assets/images/Password-Generator.png",
     "deployed": "https://rrana5106.github.io/Rupesh-Password-Generator/",
     "github": "https://github.com/rrana5106/Rupesh-Password-Generator"
   },
   {
     "title": "Code-Quiz",
-    "image": "images/code-quiz.png",
+    "image": "./assets/images/code-quiz.png",
     "deployed": "https://rrana5106.github.io/rupesh-code-quiz/",
     "github": "https://github.com/rrana5106/rupesh-code-quiz"
   },
   {
     "title": "Weather-Forecast",
-    "image": "images/Weather-Forecast.png",
+    "image": "./assets/images/Weather-Forecast.png",
     "deployed": "https://rrana5106.github.io/Rupesh-weather-forecast/",
     "github": "https://github.com/rrana5106/Rupesh-weather-forecast"
   },
   {
     "title": "Marketing-Website",
-    "image": "images/Maketing-Website.png",
+    "image": "./assets/images/Maketing-Website.png",
     "deployed": "https://rrana5106.github.io/marketing-agency-accessibility-website/",
     "github": "https://github.com/rrana5106/marketing-agency-accessibility-website?tab=readme-ov-file"
   }
