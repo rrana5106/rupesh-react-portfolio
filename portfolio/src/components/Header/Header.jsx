@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 
-import logo from "../Header/RRMlogo.png";
+// import logo from "../Header/RRMlogo.png";
 
 import "./Header.css";
 
@@ -16,7 +16,7 @@ function Header() {
       <nav className="navbar navbar-expand-lg navbar-light bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            <img className="logo" src={logo} alt="RRMlogo" />
+            <img className="logo" src="./assets/images/RRMlogo.png" alt="RRMlogo" />
           </a>
           <button
             className="navbar-toggler"
