@@ -5,12 +5,12 @@ import { HashRouter as Router, Route, Routes } from 'react-router-dom'
 import "bootstrap/dist/css/bootstrap.min.css";
 import * as bootstrap from "bootstrap"; // Import all of Bootstrap's JS
 
-import Header from "./components/Header/Header";
-import Home from "./components/Home/Home";
-import About from "./pages/About";
-import ProjectGallery from "./components/ProjectGallery/ProjectGallery";
+import Header from "./components/Header";
+import Home from "./components/Home";
+// import About from "./pages/About";
+import ProjectGallery from "./components/ProjectGallery";
 import Contact from "./pages/Contact";
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/Footer";
 
 import "./App.css";
 

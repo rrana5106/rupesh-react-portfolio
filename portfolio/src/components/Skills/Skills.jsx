@@ -1,6 +1,6 @@
 import React from "react";
 import "./Skills.css";
-import Footer from "../Footer/Footer";
+import Footer from "../Footer";
 
 const skillsData = [
   { name: "HTML", icon: "./assets/techLogo/html.svg" },

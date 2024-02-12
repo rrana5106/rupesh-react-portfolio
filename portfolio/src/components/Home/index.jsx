@@ -1,11 +1,11 @@
-import NavBar from "../Header/Header";
+import NavBar from "../Header";
 import Contact from "../../pages/Contact";
-import ProjectGallery from "../ProjectGallery/ProjectGallery";
+import ProjectGallery from "../ProjectGallery";
 import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import { Link } from "react-router-dom";
 import Skills from "../Skills/Skills";
-import Footer from "../Footer/Footer";
+import Footer from "../Footer";
 import "./Home.css";
 
 function Home() {
@@ -50,6 +50,13 @@ function Home() {
             >
               <button style={buttonStyle}>Resume</button>
             </Link>
+            <br />
+            <a
+              href="./assets/Resume.pdf" download="Resume.pdf" target="_blank" rel="noreferrer"
+              
+            >
+              <button style={buttonStyle}>Download CV</button>
+            </a>
           </div>
         </div>
       </div>
