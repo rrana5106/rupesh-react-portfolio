@@ -18,11 +18,11 @@ I have worked with React and have multiple projects to share, here is my portfol
 
 # Usage
 
-![alt text](./portfolio/public/images/react-portfolio.png)
+![alt text](./portfolio/public/assets/images/react-portfolio.png)
 
 # Deployment
 
-[Portfolio](https://rrana5106.github.io/rupesh-react-portfolio/)
+[Deployed Page](https://rrana5106.github.io/rupesh-react-portfolio/)
 
 ## Installation
 
